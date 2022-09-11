@@ -1,4 +1,4 @@
-<h1><b> Search-program</b></h1>
+<h1><b>To-do React App</b></h1>
 
 ![TO-DO REACT APP](https://user-images.githubusercontent.com/99191648/189514687-42843764-f6a5-4030-8798-d238921887e9.PNG)
 
